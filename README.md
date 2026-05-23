@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ✨ Oii, eu sou a Cecília ✨
+# ✨ Oii, eu sou a Cecília 
 
 <img src="https://media.tenor.com/8M6aBQQ0A7AAAAAC/hello-kitty.gif" width="250px"/>
 
@@ -22,7 +22,7 @@
 ## 🎀 Projetos
 
 🌸 **Agendei**  
-Sistema de agendamento para salões  
+Sistema para agendamento de salões
 
 🗺️ **Beyond the Map**  
 Plataforma interativa de viagens  
