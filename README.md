@@ -21,14 +21,11 @@
 
 ## 🎀 Projetos
 
-🌸 **Agendei**  
-Sistema para agendamento de salões
+🌸 **Agendei** - Sistema para agendamento de salões
 
-🗺️ **Beyond the Map**  
-Plataforma interativa de viagens  
+🗺️ **Beyond the Map** - Plataforma interativa de viagens  
 
-🌊 **Futuro Azul**  
-Projeto com temática ambiental  
+🌊 **Futuro Azul** - Projeto com temática ambiental  
 
 ---
 
