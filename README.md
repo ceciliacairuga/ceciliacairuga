@@ -1,15 +1,57 @@
-## ✨ Oii, eu sou a Cecilia Cairuga 
 
-💻 Estudante do Técnico em Informática np IFSul Campus Charqueadas
-📱 Aprendendo Java e PHP
-🌸 Criadora dos projetos Agendei, Beyond the Map e Futuro Azul
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,java,php,mysql,vscode,git,github" />
+# ✨ Oii, eu sou a Cecília ✨
+
+<img src="https://media.tenor.com/8M6aBQQ0A7AAAAAC/hello-kitty.gif" width="250px"/>
+
+💻 Estudante do Técnico de Informática no IFSul Campus Charqueadas e tento não surtar...
+
+</div>
+
+---
+
+## 🌷 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,java,php,mysql" />
+</p>
+
+---
+
+## 🎀 Projetos
+
+🌸 **Agendei**  
+Sistema de agendamento para salões  
+
+🗺️ **Beyond the Map**  
+Plataforma interativa de viagens  
+
+🌊 **Futuro Azul**  
+Projeto com temática ambiental  
+
+---
 
 ## ☁️ Contato
 
-[![Instagram](https://img.shields.io/badge/Instagram-e0b0ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cairugacissa)
+<p align="center">
+  <a href="https://instagram.com/cairugacissa">
+    <img src="https://img.shields.io/badge/Instagram-f8c8dc?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-[![Spotify](https://img.shields.io/badge/Spotify-cba6f7?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ccairuga)
+  <a href="https://open.spotify.com/user/ccairuga">
+    <img src="https://img.shields.io/badge/Spotify-f9d5e5?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-d8b4fe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceciliacairuga@gmail.com)
+  <a href="mailto:ceciliacairuga@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-fbcfe8?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+✨ obrigada por visitar meu perfil ✨
+
+</div>
