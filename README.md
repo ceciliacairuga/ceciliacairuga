@@ -1,16 +1,15 @@
-## Hi there 👋
+## ✨ Oii, eu sou a Cecilia Cairuga 
 
-<!--
-**ceciliacairuga/ceciliacairuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante do Técnico em Informática np IFSul Campus Charqueadas
+📱 Aprendendo Java e PHP
+🌸 Criadora dos projetos Agendei, Beyond the Map e Futuro Azul
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=html,css,java,php,mysql,vscode,git,github" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-e0b0ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cairugacissa)
+
+[![Spotify](https://img.shields.io/badge/Spotify-cba6f7?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ccairuga)
+
+[![Gmail](https://img.shields.io/badge/Gmail-d8b4fe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceciliacairuga@gmail.com)
